@@ -18,6 +18,10 @@
 - [x] Agregar segmentación por `estrato_nse`
 - [x] Agregar segmentación por `grupo_edad`
 - [x] Crear skill de autocontexto para futuras ejecuciones
+- [x] Auditar fases de `scripts/eclat.ipynb` para transferencia de buenas prácticas
+- [x] Reestructurar `eclat_habitos_compra.ipynb` en formato presentación
+- [x] Incorporar métricas de soporte en exploratorio y distribución de métricas de reglas
+- [x] Alinear secciones de segmentación y conclusiones a storytelling de negocio
 - [ ] Ejecutar notebook completo y validar outputs en entorno local
 - [ ] Ajustar `replace_map` con hallazgos exploratorios adicionales
 
