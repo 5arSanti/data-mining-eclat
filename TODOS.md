@@ -25,6 +25,8 @@
 - [x] Refactor fase 5+ separando definición/ejecución en celdas independientes
 - [x] Añadir descripciones académicas en Markdown para bloques de modelado y segmentación
 - [x] Verificar explícitamente criterios 1..6 solicitados en sección de conclusiones
+- [x] Documentar todas las celdas del notebook con redacción explicativa
+- [x] Eliminar viñetas de celdas Markdown para estilo narrativo continuo
 - [ ] Ejecutar notebook completo y validar outputs en entorno local
 - [ ] Ajustar `replace_map` con hallazgos exploratorios adicionales
 
