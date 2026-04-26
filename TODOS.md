@@ -27,6 +27,7 @@
 - [x] Verificar explícitamente criterios 1..6 solicitados en sección de conclusiones
 - [x] Documentar todas las celdas del notebook con redacción explicativa
 - [x] Eliminar viñetas de celdas Markdown para estilo narrativo continuo
+- [x] Insertar una celda Markdown nueva antes de cada celda de código
 - [ ] Ejecutar notebook completo y validar outputs en entorno local
 - [ ] Ajustar `replace_map` con hallazgos exploratorios adicionales
 
