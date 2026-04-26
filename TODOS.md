@@ -22,6 +22,9 @@
 - [x] Reestructurar `eclat_habitos_compra.ipynb` en formato presentación
 - [x] Incorporar métricas de soporte en exploratorio y distribución de métricas de reglas
 - [x] Alinear secciones de segmentación y conclusiones a storytelling de negocio
+- [x] Refactor fase 5+ separando definición/ejecución en celdas independientes
+- [x] Añadir descripciones académicas en Markdown para bloques de modelado y segmentación
+- [x] Verificar explícitamente criterios 1..6 solicitados en sección de conclusiones
 - [ ] Ejecutar notebook completo y validar outputs en entorno local
 - [ ] Ajustar `replace_map` con hallazgos exploratorios adicionales
 
